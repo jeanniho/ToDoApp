@@ -1,10 +1,10 @@
 # myapp
 
-A new Flutter application.
+This application uses Firebase and should allow to keep track of your todos but it is incomplete at the moment.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This Flutter application project can be ran/started by running the main.dart file/method in lib folder.
 
 A few resources to get you started if this is your first Flutter project:
 
