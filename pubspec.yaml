@@ -24,12 +24,18 @@ dependencies:
   flutter:
     sdk: flutter
   http: ^0.12.0+2 #make requests on the net
-  intl: ^0.15.8 #time formatting
+  intl: ^0.16.1 #time formatting
   flutter_spinkit: ^4.0.0 #show this when screen is loading
+  firebase_auth: ^0.18.4
+  firebase_core: ^0.5.3
+  cloud_firestore: ^0.14.4
+  provider: ^4.3.2+2
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^0.1.3
+  rxdart: ^0.23.1
+  #flutter_bloc: ^2.1.1
 
 dev_dependencies:
   flutter_test:
